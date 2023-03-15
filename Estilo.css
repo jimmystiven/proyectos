@@ -1,0 +1,90 @@
+#contenedor{
+    background-color: antiquewhite;
+    width: 100%;
+}
+
+#cabecera{
+    background-color: skyblue;
+}
+#menu{
+    width: 60%;
+    text-align: center;
+    background-color: blueviolet;
+    margin:0 auto;
+}
+#X{
+    margin: 1px solid black;
+    background-color: skyblue;
+    width: 70%;
+}
+
+#contenido{
+    margin: 1px solid black;
+}
+
+#contenido #articulos{
+    width: 1327px;
+    height: 500px;
+    text-align: center;
+}
+
+#CP01{
+    width: 796.2px;
+    height: 500px;
+}
+#TablitaA{
+    width: 796.2px;
+    height: 237.5px;
+    border: 1px solid black;
+    background-color: aqua;
+}
+#ART1{
+    width: 477.72px;
+    border: 1px solid black;
+}
+#IMG1{
+    width: 318.48px;
+    border: 1px solid black;
+}
+#Tmedio{
+    width: 796.2px;
+    height: 25px;
+    border: 1px solid black;
+    background-color: red;
+}
+#TablitaB{
+    width: 796.2px;
+    height: 237.5px;
+    border: 1px solid black;
+    background-color:gold;
+}
+#ART2{
+    width: 477.72px;
+    border: 1px solid rgb(199, 33, 33);
+}
+#IMG2{
+    width: 318.48px;
+    border: 1px solid black;
+}
+#B01{
+    width: 265.4px;
+    height: 500px;
+    background-color: darkgreen;
+}
+#B02{
+    width: 265.4px;
+    height: 500px;
+    background-color: rgb(82, 216, 82);
+}
+#pie{
+    background-color: skyblue;
+}
+
+#nav1{
+    background-color: whitesmoke;
+    width: 20%;
+}
+
+.TITULOS{
+    text-align: center;
+}

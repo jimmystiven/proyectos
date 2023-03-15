@@ -1,0 +1,56 @@
+#caja1{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    border-bottom: 10px solid red;
+    border-top: 15px solid green;
+    border-left: 5px solid blue;
+    border-right: 20px solid yellow;
+}
+#caja1:hover{
+    width: 50px;
+    height: 50px;
+    border-bottom: 15px solid red;
+    border-top: 10px solid green;
+    border-left: 20px solid blue;
+    border-right: 5px solid yellow;
+}
+#caja2{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border: 5px solid red;
+}
+#caja2:hover{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border: 5px solid red;
+}
+#caja3{
+    width: 50px;
+    height: 50px;
+    border: 5px solid blueviolet;
+    border-style: dashed;
+    border-radius: 1px;
+    box-shadow: 5px 5px 5px skyblue;
+}
+#caja3:hover{
+    width: 50px;
+    height: 50px;
+    border: 5px solid blueviolet;
+    border-style: dotted;
+    border-radius: 2px;
+}
+#caja4{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    border: 5px solid black;
+}
+#caja4:hover{
+    width: 70px;
+    height: 70px;
+    background-color: aqua;
+    border: 5px solid black;
+}
